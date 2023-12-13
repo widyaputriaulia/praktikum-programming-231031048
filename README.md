@@ -4,4 +4,4 @@
 <h1> Nim  :   231031048 </h1>
 <h1> Prodi: Sistem informasi B </h1>
 
-*Praktikum 1: Pengenalan variabel 'praktikum-b1-py'
+* Praktikum 1: Pengenalan variabel 'praktikum-b1-py'
